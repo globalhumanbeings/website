@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+##When Australia burns, the earth burns.
 
-You can use the [editor on GitHub](https://github.com/globalhumanbeings/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###Which part is it that doesn't affect you? 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We only have one planet. Protecting him is the duty of all, united, as if we were one inhabitant on the planet.
 
-### Markdown
+I would like to appeal to all people of goodwill to ask their governments in the northern hemisphere to work together by exchanging their firefighting resources with those in the southern hemisphere. Ask your governments to offer their country's firefighting resources to Australia (do not let them be idle during our winter, when Australia is burning and can make good use of them). Maybe next summer, it will be your country who needs to ask for some extra help.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a Spanish citizen and will open a petition in my country to ask for all available help they can send to Australia. If you are in other countries, please do the same and we will join with the tag #GlobalHumanBeigns on twitter.
 
-```markdown
-Syntax highlighted code block
+###It's not about my country, it's about our planet!
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+**Twitter: @ghumanbeings #YoSoyAustraliano #IAmAustralian**
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/globalhumanbeings/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**[globalhumanbeings.com](http://www.globalhumanbeings.com)**
